@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RTC2GIT.iml" filepath="$PROJECT_DIR$/RTC2GIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jazzignore2gitignore.iml" filepath="$PROJECT_DIR$/jazzignore2gitignore.iml" />
     </modules>
   </component>
 </project>
